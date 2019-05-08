@@ -7,30 +7,30 @@ Price to Sales (TTM),0.85,362.34,20.79,9613.T,NTT Data Corp
 Price to Book (MRQ),2.06,4.28,1.82,9613.T,NTT Data Corp
 Price to Tangible Book (MRQ),20.08,12.35,2.75,9613.T,NTT Data Corp
 Price to Cash Flow (TTM),7.28,25.94,12.86,9613.T,NTT Data Corp
-% Owned Institutions,--,0.00,0.00,9613.T,NTT Data Corp
+% Owned Institutions,--,0,0,9613.T,NTT Data Corp
 Dividend Yield,1.24,1.35,2.57,9613.T,NTT Data Corp
 Dividend Yield - 5 Year Avg,1.32,1.33,1.82,9613.T,NTT Data Corp
 Dividend 5 Year Growth Rate,4.56,10.56,29.24,9613.T,NTT Data Corp
 Payout Ratio(TTM),27.48,25.86,20.57,9613.T,NTT Data Corp
-Sales (MRQ) vs Qtr. 1 Yr. Ago,1.60,10.91,-4.08,9613.T,NTT Data Corp
+Sales (MRQ) vs Qtr. 1 Yr. Ago,1.6,10.91,-4.08,9613.T,NTT Data Corp
 Sales (TTM) vs TTM 1 Yr. Ago,4.92,10.08,6.11,9613.T,NTT Data Corp
 Sales - 5 Yr. Growth Rate,10.21,23.98,5.77,9613.T,NTT Data Corp
 EPS (MRQ) vs Qtr. 1 Yr. Ago,-0.04,14.48,-11.91,9613.T,NTT Data Corp
-EPS (TTM) vs TTM 1 Yr. Ago,6.30,--,--,9613.T,NTT Data Corp
+EPS (TTM) vs TTM 1 Yr. Ago,6.3,--,--,9613.T,NTT Data Corp
 EPS - 5 Yr. Growth Rate,5.98,16.35,13.09,9613.T,NTT Data Corp
-Capital Spending - 5 Yr. Growth Rate,11.69,23.63,9.10,9613.T,NTT Data Corp
+Capital Spending - 5 Yr. Growth Rate,11.69,23.63,9.1,9613.T,NTT Data Corp
 Quick Ratio (MRQ),1.29,2.22,1.91,9613.T,NTT Data Corp
 Current Ratio (MRQ),1.33,2.44,2.37,9613.T,NTT Data Corp
 LT Debt to Equity (MRQ),57.44,40.83,8.67,9613.T,NTT Data Corp
 Total Debt to Equity (MRQ),66.64,53.09,15.75,9613.T,NTT Data Corp
 Interest Coverage (TTM),74.36,26.43,13.79,9613.T,NTT Data Corp
-Gross Margin (TTM),24.71,28.50,43.23,9613.T,NTT Data Corp
-Gross Margin - 5 Yr. Avg.,24.50,25.79,40.40,9613.T,NTT Data Corp
+Gross Margin (TTM),24.71,28.5,43.23,9613.T,NTT Data Corp
+Gross Margin - 5 Yr. Avg.,24.5,25.79,40.4,9613.T,NTT Data Corp
 EBITD Margin (TTM),14.08,--,--,9613.T,NTT Data Corp
 EBITD - 5 Yr. Avg,15.17,14.12,26.44,9613.T,NTT Data Corp
 Operating Margin (TTM),6.01,10.51,22.49,9613.T,NTT Data Corp
 Operating Margin - 5 Yr. Avg.,5.05,9.58,16.73,9613.T,NTT Data Corp
-Pre-Tax Margin (TTM),6.03,12.20,23.54,9613.T,NTT Data Corp
+Pre-Tax Margin (TTM),6.03,12.2,23.54,9613.T,NTT Data Corp
 Pre-Tax Margin - 5 Yr. Avg.,5.31,12.82,17.92,9613.T,NTT Data Corp
 Net Profit Margin (TTM),3.98,8.39,17.11,9613.T,NTT Data Corp
 Net Profit Margin - 5 Yr. Avg.,3.05,9.34,13.38,9613.T,NTT Data Corp
@@ -38,51 +38,51 @@ Effective Tax Rate (TTM),34.07,28.15,26.97,9613.T,NTT Data Corp
 Effective Tax Rate - 5 Yr. Avg.,42.46,26.71,26.82,9613.T,NTT Data Corp
 Revenue/Employee (TTM),"18,063,340","5,322,560","2,601,178",9613.T,NTT Data Corp
 Net Income/Employee (TTM),"718,057","401,348","280,290",9613.T,NTT Data Corp
-Receivable Turnover (TTM),4.30,6.03,7.74,9613.T,NTT Data Corp
-Inventory Turnover (TTM),33.06,158.24,17.10,9613.T,NTT Data Corp
+Receivable Turnover (TTM),4.3,6.03,7.74,9613.T,NTT Data Corp
+Inventory Turnover (TTM),33.06,158.24,17.1,9613.T,NTT Data Corp
 Asset Turnover (TTM),0.93,1.04,0.77,9613.T,NTT Data Corp
 Return on Assets (TTM),3.71,9.57,12.92,9613.T,NTT Data Corp
 Return on Assets - 5 Yr. Avg.,2.67,8.36,10.76,9613.T,NTT Data Corp
 Return on Investment (TTM),5.34,13.56,16.88,9613.T,NTT Data Corp
 Return on Investment - 5 Yr. Avg.,3.91,11.96,14.19,9613.T,NTT Data Corp
 Return on Equity (TTM),9.44,15.27,18.42,9613.T,NTT Data Corp
-Return on Equity - 5 Yr. Avg.,6.50,14.42,15.44,9613.T,NTT Data Corp
+Return on Equity - 5 Yr. Avg.,6.5,14.42,15.44,9613.T,NTT Data Corp
 P/E Ratio (TTM),18.47,20.14,20.17,T.TO,Telus Corp
 P/E High - Last 5 Yrs.,20.74,27.41,30.09,T.TO,Telus Corp
-P/E Low - Last 5 Yrs.,16.72,18.70,20.01,T.TO,Telus Corp
+P/E Low - Last 5 Yrs.,16.72,18.7,20.01,T.TO,Telus Corp
 Beta,0.86,0.59,0.61,T.TO,Telus Corp
-Price to Sales (TTM),2.11,3.01,2.80,T.TO,Telus Corp
+Price to Sales (TTM),2.11,3.01,2.8,T.TO,Telus Corp
 Price to Book (MRQ),2.89,3.84,3.59,T.TO,Telus Corp
 Price to Tangible Book (MRQ),--,4.11,3.94,T.TO,Telus Corp
 Price to Cash Flow (TTM),7.64,8.18,7.82,T.TO,Telus Corp
-% Owned Institutions,--,0.00,0.00,T.TO,Telus Corp
+% Owned Institutions,--,0,0,T.TO,Telus Corp
 Dividend Yield,4.42,4.28,4.02,T.TO,Telus Corp
-Dividend Yield - 5 Year Avg,4.16,0.20,0.37,T.TO,Telus Corp
+Dividend Yield - 5 Year Avg,4.16,0.2,0.37,T.TO,Telus Corp
 Dividend 5 Year Growth Rate,8.66,0.42,1.39,T.TO,Telus Corp
 Payout Ratio(TTM),78.31,5.26,9.34,T.TO,Telus Corp
 Sales (MRQ) vs Qtr. 1 Yr. Ago,6.79,7.53,6.42,T.TO,Telus Corp
-Sales (TTM) vs TTM 1 Yr. Ago,5.94,3.40,2.68,T.TO,Telus Corp
+Sales (TTM) vs TTM 1 Yr. Ago,5.94,3.4,2.68,T.TO,Telus Corp
 Sales - 5 Yr. Growth Rate,4.45,9.43,8.49,T.TO,Telus Corp
 EPS (MRQ) vs Qtr. 1 Yr. Ago,0.46,4.91,-127.79,T.TO,Telus Corp
 EPS (TTM) vs TTM 1 Yr. Ago,1.98,--,--,T.TO,Telus Corp
-EPS - 5 Yr. Growth Rate,5.90,7.86,7.41,T.TO,Telus Corp
-Capital Spending - 5 Yr. Growth Rate,6.91,9.40,7.95,T.TO,Telus Corp
+EPS - 5 Yr. Growth Rate,5.9,7.86,7.41,T.TO,Telus Corp
+Capital Spending - 5 Yr. Growth Rate,6.91,9.4,7.95,T.TO,Telus Corp
 Quick Ratio (MRQ),0.72,0.96,0.94,T.TO,Telus Corp
-Current Ratio (MRQ),0.79,1.01,1.00,T.TO,Telus Corp
-LT Debt to Equity (MRQ),129.30,50.77,55.90,T.TO,Telus Corp
+Current Ratio (MRQ),0.79,1.01,1,T.TO,Telus Corp
+LT Debt to Equity (MRQ),129.3,50.77,55.9,T.TO,Telus Corp
 Total Debt to Equity (MRQ),138.42,65.11,71.55,T.TO,Telus Corp
-Interest Coverage (TTM),5.21,29.24,29.70,T.TO,Telus Corp
+Interest Coverage (TTM),5.21,29.24,29.7,T.TO,Telus Corp
 Gross Margin (TTM),54.82,62.75,61.87,T.TO,Telus Corp
 Gross Margin - 5 Yr. Avg.,55.44,68.58,65.95,T.TO,Telus Corp
 EBITD Margin (TTM),35.45,--,--,T.TO,Telus Corp
 EBITD - 5 Yr. Avg,35.65,50.42,48.04,T.TO,Telus Corp
-Operating Margin (TTM),20.13,32.50,29.05,T.TO,Telus Corp
+Operating Margin (TTM),20.13,32.5,29.05,T.TO,Telus Corp
 Operating Margin - 5 Yr. Avg.,19.61,34.85,31.71,T.TO,Telus Corp
 Pre-Tax Margin (TTM),15.44,28.51,25.03,T.TO,Telus Corp
 Pre-Tax Margin - 5 Yr. Avg.,15.26,31.93,28.59,T.TO,Telus Corp
 Net Profit Margin (TTM),11.52,21.04,18.42,T.TO,Telus Corp
 Net Profit Margin - 5 Yr. Avg.,11.24,24.26,21.67,T.TO,Telus Corp
-Effective Tax Rate (TTM),25.37,26.35,25.00,T.TO,Telus Corp
+Effective Tax Rate (TTM),25.37,26.35,25,T.TO,Telus Corp
 Effective Tax Rate - 5 Yr. Avg.,26.36,24.13,22.86,T.TO,Telus Corp
 Revenue/Employee (TTM),"180,736","5,446,309,934","5,416,677,920",T.TO,Telus Corp
 Net Income/Employee (TTM),"20,824","1,176,765,506","936,515,039",T.TO,Telus Corp
@@ -91,57 +91,57 @@ Inventory Turnover (TTM),16.85,69.42,64.22,T.TO,Telus Corp
 Asset Turnover (TTM),0.44,0.59,0.58,T.TO,Telus Corp
 Return on Assets (TTM),5.07,12.18,10.77,T.TO,Telus Corp
 Return on Assets - 5 Yr. Avg.,5.34,14.68,13.16,T.TO,Telus Corp
-Return on Investment (TTM),6.00,18.05,15.92,T.TO,Telus Corp
+Return on Investment (TTM),6,18.05,15.92,T.TO,Telus Corp
 Return on Investment - 5 Yr. Avg.,6.37,21.77,19.49,T.TO,Telus Corp
 Return on Equity (TTM),16.26,18.51,15.94,T.TO,Telus Corp
 Return on Equity - 5 Yr. Avg.,17.28,23.28,20.87,T.TO,Telus Corp
 P/E Ratio (TTM),21.63,26.03,25.21,MMS,Maximus Inc
-P/E High - Last 5 Yrs.,25.40,36.04,37.83,MMS,Maximus Inc
-P/E Low - Last 5 Yrs.,19.06,15.50,14.69,MMS,Maximus Inc
+P/E High - Last 5 Yrs.,25.4,36.04,37.83,MMS,Maximus Inc
+P/E Low - Last 5 Yrs.,19.06,15.5,14.69,MMS,Maximus Inc
 Beta,0.95,0.79,1.06,MMS,Maximus Inc
-Price to Sales (TTM),1.94,3.30,2.90,MMS,Maximus Inc
+Price to Sales (TTM),1.94,3.3,2.9,MMS,Maximus Inc
 Price to Book (MRQ),4.22,4.34,3.45,MMS,Maximus Inc
 Price to Tangible Book (MRQ),15.63,5.03,5.62,MMS,Maximus Inc
 Price to Cash Flow (TTM),16.51,17.26,13.43,MMS,Maximus Inc
-% Owned Institutions,--,0.00,0.00,MMS,Maximus Inc
+% Owned Institutions,--,0,0,MMS,Maximus Inc
 Dividend Yield,1.35,1.93,1.71,MMS,Maximus Inc
-Dividend Yield - 5 Year Avg,0.34,1.60,1.29,MMS,Maximus Inc
-Dividend 5 Year Growth Rate,0.00,13.17,10.86,MMS,Maximus Inc
+Dividend Yield - 5 Year Avg,0.34,1.6,1.29,MMS,Maximus Inc
+Dividend 5 Year Growth Rate,0,13.17,10.86,MMS,Maximus Inc
 Payout Ratio(TTM),11.07,19.96,26.78,MMS,Maximus Inc
 Sales (MRQ) vs Qtr. 1 Yr. Ago,6.66,4.93,4.65,MMS,Maximus Inc
-Sales (TTM) vs TTM 1 Yr. Ago,-1.33,7.00,7.24,MMS,Maximus Inc
-Sales - 5 Yr. Growth Rate,12.44,8.25,10.70,MMS,Maximus Inc
+Sales (TTM) vs TTM 1 Yr. Ago,-1.33,7,7.24,MMS,Maximus Inc
+Sales - 5 Yr. Growth Rate,12.44,8.25,10.7,MMS,Maximus Inc
 EPS (MRQ) vs Qtr. 1 Yr. Ago,74.73,27.37,30.94,MMS,Maximus Inc
 EPS (TTM) vs TTM 1 Yr. Ago,15.52,--,--,MMS,Maximus Inc
 EPS - 5 Yr. Growth Rate,14.81,11.75,12.56,MMS,Maximus Inc
 Capital Spending - 5 Yr. Growth Rate,-15.67,2.28,11.34,MMS,Maximus Inc
-Quick Ratio (MRQ),--,1.62,1.70,MMS,Maximus Inc
-Current Ratio (MRQ),2.32,1.90,2.14,MMS,Maximus Inc
-LT Debt to Equity (MRQ),10.80,34.05,65.37,MMS,Maximus Inc
-Total Debt to Equity (MRQ),11.25,45.16,87.70,MMS,Maximus Inc
+Quick Ratio (MRQ),--,1.62,1.7,MMS,Maximus Inc
+Current Ratio (MRQ),2.32,1.9,2.14,MMS,Maximus Inc
+LT Debt to Equity (MRQ),10.8,34.05,65.37,MMS,Maximus Inc
+Total Debt to Equity (MRQ),11.25,45.16,87.7,MMS,Maximus Inc
 Interest Coverage (TTM),--,33.44,20.16,MMS,Maximus Inc
 Gross Margin (TTM),24.72,30.71,28.63,MMS,Maximus Inc
 Gross Margin - 5 Yr. Avg.,24.74,29.85,26.04,MMS,Maximus Inc
 EBITD Margin (TTM),14.73,--,--,MMS,Maximus Inc
 EBITD - 5 Yr. Avg,15.31,19.15,15.75,MMS,Maximus Inc
 Operating Margin (TTM),11.91,15.06,-8.06,MMS,Maximus Inc
-Operating Margin - 5 Yr. Avg.,12.50,15.37,11.54,MMS,Maximus Inc
-Pre-Tax Margin (TTM),12.12,12.71,-9.30,MMS,Maximus Inc
+Operating Margin - 5 Yr. Avg.,12.5,15.37,11.54,MMS,Maximus Inc
+Pre-Tax Margin (TTM),12.12,12.71,-9.3,MMS,Maximus Inc
 Pre-Tax Margin - 5 Yr. Avg.,12.55,15.06,10.53,MMS,Maximus Inc
 Net Profit Margin (TTM),9.16,9.69,-12.73,MMS,Maximus Inc
 Net Profit Margin - 5 Yr. Avg.,8.31,11.31,7.47,MMS,Maximus Inc
-Effective Tax Rate (TTM),24.40,19.25,23.49,MMS,Maximus Inc
+Effective Tax Rate (TTM),24.4,19.25,23.49,MMS,Maximus Inc
 Effective Tax Rate - 5 Yr. Avg.,33.83,22.91,33.64,MMS,Maximus Inc
 Revenue/Employee (TTM),"130,844","10,572,926","826,559,619",MMS,Maximus Inc
 Net Income/Employee (TTM),"11,989","1,384,625","48,533,488",MMS,Maximus Inc
-Receivable Turnover (TTM),4.50,6.82,6.29,MMS,Maximus Inc
+Receivable Turnover (TTM),4.5,6.82,6.29,MMS,Maximus Inc
 Inventory Turnover (TTM),--,64.09,71.47,MMS,Maximus Inc
 Asset Turnover (TTM),1.59,0.71,0.71,MMS,Maximus Inc
 Return on Assets (TTM),14.52,7.47,5.12,MMS,Maximus Inc
 Return on Assets - 5 Yr. Avg.,15.21,5.75,4.51,MMS,Maximus Inc
 Return on Investment (TTM),18.06,10.29,7.14,MMS,Maximus Inc
-Return on Investment - 5 Yr. Avg.,20.53,9.80,6.42,MMS,Maximus Inc
-Return on Equity (TTM),21.17,12.50,12.34,MMS,Maximus Inc
+Return on Investment - 5 Yr. Avg.,20.53,9.8,6.42,MMS,Maximus Inc
+Return on Equity (TTM),21.17,12.5,12.34,MMS,Maximus Inc
 Return on Equity - 5 Yr. Avg.,24.85,12.04,10.72,MMS,Maximus Inc
 P/E Ratio (TTM),25.04,20.65,990.15,ACN,Accenture Plc
 P/E High - Last 5 Yrs.,24.03,35.22,22.93,ACN,Accenture Plc
@@ -149,48 +149,48 @@ P/E Low - Last 5 Yrs.,14.65,10.11,8.73,ACN,Accenture Plc
 Beta,1.05,0.58,1.29,ACN,Accenture Plc
 Price to Sales (TTM),2.39,2.58,2.52,ACN,Accenture Plc
 Price to Book (MRQ),9.79,2.71,2.26,ACN,Accenture Plc
-Price to Tangible Book (MRQ),22.26,19.48,3.40,ACN,Accenture Plc
-Price to Cash Flow (TTM),19.80,12.01,12.83,ACN,Accenture Plc
+Price to Tangible Book (MRQ),22.26,19.48,3.4,ACN,Accenture Plc
+Price to Cash Flow (TTM),19.8,12.01,12.83,ACN,Accenture Plc
 % Owned Institutions,81.21,2.04,0.73,ACN,Accenture Plc
 Dividend Yield,1.95,1.43,1.48,ACN,Accenture Plc
 Dividend Yield - 5 Year Avg,2.06,1.23,1.23,ACN,Accenture Plc
 Dividend 5 Year Growth Rate,12.38,12.02,30.75,ACN,Accenture Plc
-Payout Ratio(TTM),43.50,23.24,25.39,ACN,Accenture Plc
+Payout Ratio(TTM),43.5,23.24,25.39,ACN,Accenture Plc
 Sales (MRQ) vs Qtr. 1 Yr. Ago,7.53,9.87,20.62,ACN,Accenture Plc
 Sales (TTM) vs TTM 1 Yr. Ago,5.66,8.51,6.18,ACN,Accenture Plc
 Sales - 5 Yr. Growth Rate,4.31,30.28,5.96,ACN,Accenture Plc
-EPS (MRQ) vs Qtr. 1 Yr. Ago,-12.02,24.80,128.57,ACN,Accenture Plc
+EPS (MRQ) vs Qtr. 1 Yr. Ago,-12.02,24.8,128.57,ACN,Accenture Plc
 EPS (TTM) vs TTM 1 Yr. Ago,-15.67,--,--,ACN,Accenture Plc
 EPS - 5 Yr. Growth Rate,7.23,9.27,10.47,ACN,Accenture Plc
-Capital Spending - 5 Yr. Growth Rate,6.76,28.80,4.08,ACN,Accenture Plc
+Capital Spending - 5 Yr. Growth Rate,6.76,28.8,4.08,ACN,Accenture Plc
 Quick Ratio (MRQ),--,2.08,1.81,ACN,Accenture Plc
 Current Ratio (MRQ),1.23,2.24,2.24,ACN,Accenture Plc
-LT Debt to Equity (MRQ),0.25,47.22,9.20,ACN,Accenture Plc
+LT Debt to Equity (MRQ),0.25,47.22,9.2,ACN,Accenture Plc
 Total Debt to Equity (MRQ),0.28,65.41,17.12,ACN,Accenture Plc
 Interest Coverage (TTM),--,47.61,15.99,ACN,Accenture Plc
-Gross Margin (TTM),30.00,26.68,41.10,ACN,Accenture Plc
-Gross Margin - 5 Yr. Avg.,30.10,22.91,36.93,ACN,Accenture Plc
+Gross Margin (TTM),30,26.68,41.1,ACN,Accenture Plc
+Gross Margin - 5 Yr. Avg.,30.1,22.91,36.93,ACN,Accenture Plc
 EBITD Margin (TTM),16.17,--,--,ACN,Accenture Plc
 EBITD - 5 Yr. Avg,15.71,12.79,22.66,ACN,Accenture Plc
-Operating Margin (TTM),12.60,13.26,16.39,ACN,Accenture Plc
+Operating Margin (TTM),12.6,13.26,16.39,ACN,Accenture Plc
 Operating Margin - 5 Yr. Avg.,14.01,8.75,13.09,ACN,Accenture Plc
 Pre-Tax Margin (TTM),12.56,14.82,17.41,ACN,Accenture Plc
 Pre-Tax Margin - 5 Yr. Avg.,13.95,10.75,14.16,ACN,Accenture Plc
-Net Profit Margin (TTM),9.89,11.30,13.02,ACN,Accenture Plc
-Net Profit Margin - 5 Yr. Avg.,10.79,7.80,10.87,ACN,Accenture Plc
+Net Profit Margin (TTM),9.89,11.3,13.02,ACN,Accenture Plc
+Net Profit Margin - 5 Yr. Avg.,10.79,7.8,10.87,ACN,Accenture Plc
 Effective Tax Rate (TTM),21.25,28.57,25.12,ACN,Accenture Plc
 Effective Tax Rate - 5 Yr. Avg.,22.69,21.81,24.45,ACN,Accenture Plc
 Revenue/Employee (TTM),--,"11,553,599","7,150,036",ACN,Accenture Plc
 Net Income/Employee (TTM),--,"903,400","717,481",ACN,Accenture Plc
-Receivable Turnover (TTM),5.61,6.60,7.80,ACN,Accenture Plc
+Receivable Turnover (TTM),5.61,6.6,7.8,ACN,Accenture Plc
 Inventory Turnover (TTM),--,128.76,13.79,ACN,Accenture Plc
-Asset Turnover (TTM),1.70,0.99,0.82,ACN,Accenture Plc
+Asset Turnover (TTM),1.7,0.99,0.82,ACN,Accenture Plc
 Return on Assets (TTM),16.79,7.83,10.89,ACN,Accenture Plc
 Return on Assets - 5 Yr. Avg.,19.28,6.77,9.89,ACN,Accenture Plc
 Return on Investment (TTM),31.33,11.32,14.19,ACN,Accenture Plc
-Return on Investment - 5 Yr. Avg.,37.60,10.05,13.26,ACN,Accenture Plc
+Return on Investment - 5 Yr. Avg.,37.6,10.05,13.26,ACN,Accenture Plc
 Return on Equity (TTM),41.75,12.87,14.57,ACN,Accenture Plc
-Return on Equity - 5 Yr. Avg.,54.43,14.34,13.90,ACN,Accenture Plc
+Return on Equity - 5 Yr. Avg.,54.43,14.34,13.9,ACN,Accenture Plc
 P/E Ratio (TTM),17.15,21.74,11.13,CTSH.O,Cognizant Technology Solutions Corp
 P/E High - Last 5 Yrs.,22.67,39.71,22.82,CTSH.O,Cognizant Technology Solutions Corp
 P/E Low - Last 5 Yrs.,17.69,14.41,8.54,CTSH.O,Cognizant Technology Solutions Corp
@@ -199,7 +199,7 @@ Price to Sales (TTM),2.08,362.34,20.79,CTSH.O,Cognizant Technology Solutions Cor
 Price to Book (MRQ),3.05,4.28,1.82,CTSH.O,Cognizant Technology Solutions Corp
 Price to Tangible Book (MRQ),5.37,12.35,2.75,CTSH.O,Cognizant Technology Solutions Corp
 Price to Cash Flow (TTM),13.42,25.94,12.86,CTSH.O,Cognizant Technology Solutions Corp
-% Owned Institutions,--,0.00,0.00,CTSH.O,Cognizant Technology Solutions Corp
+% Owned Institutions,--,0,0,CTSH.O,Cognizant Technology Solutions Corp
 Dividend Yield,1.34,1.35,2.57,CTSH.O,Cognizant Technology Solutions Corp
 Dividend Yield - 5 Year Avg,--,1.33,1.82,CTSH.O,Cognizant Technology Solutions Corp
 Dividend 5 Year Growth Rate,--,10.56,29.24,CTSH.O,Cognizant Technology Solutions Corp
@@ -210,28 +210,28 @@ Sales - 5 Yr. Growth Rate,12.77,23.98,5.77,CTSH.O,Cognizant Technology Solutions
 EPS (MRQ) vs Qtr. 1 Yr. Ago,-13.13,14.48,-11.91,CTSH.O,Cognizant Technology Solutions Corp
 EPS (TTM) vs TTM 1 Yr. Ago,-1.57,--,--,CTSH.O,Cognizant Technology Solutions Corp
 EPS - 5 Yr. Growth Rate,12.24,16.35,13.09,CTSH.O,Cognizant Technology Solutions Corp
-Capital Spending - 5 Yr. Growth Rate,7.58,23.63,9.10,CTSH.O,Cognizant Technology Solutions Corp
+Capital Spending - 5 Yr. Growth Rate,7.58,23.63,9.1,CTSH.O,Cognizant Technology Solutions Corp
 Quick Ratio (MRQ),--,2.22,1.91,CTSH.O,Cognizant Technology Solutions Corp
-Current Ratio (MRQ),2.90,2.44,2.37,CTSH.O,Cognizant Technology Solutions Corp
+Current Ratio (MRQ),2.9,2.44,2.37,CTSH.O,Cognizant Technology Solutions Corp
 LT Debt to Equity (MRQ),6.68,40.83,8.67,CTSH.O,Cognizant Technology Solutions Corp
 Total Debt to Equity (MRQ),6.97,53.09,15.75,CTSH.O,Cognizant Technology Solutions Corp
 Interest Coverage (TTM),22.78,26.43,13.79,CTSH.O,Cognizant Technology Solutions Corp
-Gross Margin (TTM),38.66,28.50,43.23,CTSH.O,Cognizant Technology Solutions Corp
-Gross Margin - 5 Yr. Avg.,40.04,25.79,40.40,CTSH.O,Cognizant Technology Solutions Corp
-EBITD Margin (TTM),20.20,--,--,CTSH.O,Cognizant Technology Solutions Corp
+Gross Margin (TTM),38.66,28.5,43.23,CTSH.O,Cognizant Technology Solutions Corp
+Gross Margin - 5 Yr. Avg.,40.04,25.79,40.4,CTSH.O,Cognizant Technology Solutions Corp
+EBITD Margin (TTM),20.2,--,--,CTSH.O,Cognizant Technology Solutions Corp
 EBITD - 5 Yr. Avg,21.11,14.12,26.44,CTSH.O,Cognizant Technology Solutions Corp
 Operating Margin (TTM),16.22,10.51,22.49,CTSH.O,Cognizant Technology Solutions Corp
 Operating Margin - 5 Yr. Avg.,17.28,9.58,16.73,CTSH.O,Cognizant Technology Solutions Corp
-Pre-Tax Margin (TTM),16.44,12.20,23.54,CTSH.O,Cognizant Technology Solutions Corp
+Pre-Tax Margin (TTM),16.44,12.2,23.54,CTSH.O,Cognizant Technology Solutions Corp
 Pre-Tax Margin - 5 Yr. Avg.,17.73,12.82,17.92,CTSH.O,Cognizant Technology Solutions Corp
 Net Profit Margin (TTM),12.34,8.39,17.11,CTSH.O,Cognizant Technology Solutions Corp
 Net Profit Margin - 5 Yr. Avg.,13.16,9.34,13.38,CTSH.O,Cognizant Technology Solutions Corp
-Effective Tax Rate (TTM),24.90,28.15,26.97,CTSH.O,Cognizant Technology Solutions Corp
-Effective Tax Rate - 5 Yr. Avg.,25.80,26.71,26.82,CTSH.O,Cognizant Technology Solutions Corp
+Effective Tax Rate (TTM),24.9,28.15,26.97,CTSH.O,Cognizant Technology Solutions Corp
+Effective Tax Rate - 5 Yr. Avg.,25.8,26.71,26.82,CTSH.O,Cognizant Technology Solutions Corp
 Revenue/Employee (TTM),"57,965","5,322,560","2,601,178",CTSH.O,Cognizant Technology Solutions Corp
 Net Income/Employee (TTM),"7,156","401,348","280,290",CTSH.O,Cognizant Technology Solutions Corp
 Receivable Turnover (TTM),4.76,6.03,7.74,CTSH.O,Cognizant Technology Solutions Corp
-Inventory Turnover (TTM),--,158.24,17.10,CTSH.O,Cognizant Technology Solutions Corp
+Inventory Turnover (TTM),--,158.24,17.1,CTSH.O,Cognizant Technology Solutions Corp
 Asset Turnover (TTM),1.05,1.04,0.77,CTSH.O,Cognizant Technology Solutions Corp
 Return on Assets (TTM),12.94,9.57,12.92,CTSH.O,Cognizant Technology Solutions Corp
 Return on Assets - 5 Yr. Avg.,13.37,8.36,10.76,CTSH.O,Cognizant Technology Solutions Corp
@@ -244,33 +244,33 @@ P/E High - Last 5 Yrs.,21.06,39.71,22.82,GIB,CGI Inc
 P/E Low - Last 5 Yrs.,14.03,14.41,8.54,GIB,CGI Inc
 Beta,0.59,0.89,1.14,GIB,CGI Inc
 Price to Sales (TTM),2.01,362.34,20.79,GIB,CGI Inc
-Price to Book (MRQ),3.80,4.28,1.82,GIB,CGI Inc
+Price to Book (MRQ),3.8,4.28,1.82,GIB,CGI Inc
 Price to Tangible Book (MRQ),--,12.35,2.75,GIB,CGI Inc
 Price to Cash Flow (TTM),14.83,25.94,12.86,GIB,CGI Inc
-% Owned Institutions,--,0.00,0.00,GIB,CGI Inc
+% Owned Institutions,--,0,0,GIB,CGI Inc
 Dividend Yield,--,1.35,2.57,GIB,CGI Inc
 Dividend Yield - 5 Year Avg,--,1.33,1.82,GIB,CGI Inc
 Dividend 5 Year Growth Rate,--,10.56,29.24,GIB,CGI Inc
-Payout Ratio(TTM),0.00,25.86,20.57,GIB,CGI Inc
-Sales (MRQ) vs Qtr. 1 Yr. Ago,4.00,10.91,-4.08,GIB,CGI Inc
+Payout Ratio(TTM),0,25.86,20.57,GIB,CGI Inc
+Sales (MRQ) vs Qtr. 1 Yr. Ago,4,10.91,-4.08,GIB,CGI Inc
 Sales (TTM) vs TTM 1 Yr. Ago,4.99,10.08,6.11,GIB,CGI Inc
 Sales - 5 Yr. Growth Rate,2.67,23.98,5.77,GIB,CGI Inc
 EPS (MRQ) vs Qtr. 1 Yr. Ago,21.39,14.48,-11.91,GIB,CGI Inc
 EPS (TTM) vs TTM 1 Yr. Ago,20.99,--,--,GIB,CGI Inc
-EPS - 5 Yr. Growth Rate,22.40,16.35,13.09,GIB,CGI Inc
-Capital Spending - 5 Yr. Growth Rate,8.85,23.63,9.10,GIB,CGI Inc
+EPS - 5 Yr. Growth Rate,22.4,16.35,13.09,GIB,CGI Inc
+Capital Spending - 5 Yr. Growth Rate,8.85,23.63,9.1,GIB,CGI Inc
 Quick Ratio (MRQ),0.82,2.22,1.91,GIB,CGI Inc
 Current Ratio (MRQ),1.16,2.44,2.37,GIB,CGI Inc
 LT Debt to Equity (MRQ),28.22,40.83,8.67,GIB,CGI Inc
 Total Debt to Equity (MRQ),30.62,53.09,15.75,GIB,CGI Inc
 Interest Coverage (TTM),24.66,26.43,13.79,GIB,CGI Inc
-Gross Margin (TTM),15.03,28.50,43.23,GIB,CGI Inc
-Gross Margin - 5 Yr. Avg.,88.98,25.79,40.40,GIB,CGI Inc
+Gross Margin (TTM),15.03,28.5,43.23,GIB,CGI Inc
+Gross Margin - 5 Yr. Avg.,88.98,25.79,40.4,GIB,CGI Inc
 EBITD Margin (TTM),18.32,--,--,GIB,CGI Inc
 EBITD - 5 Yr. Avg,18.01,14.12,26.44,GIB,CGI Inc
 Operating Margin (TTM),13.83,10.51,22.49,GIB,CGI Inc
 Operating Margin - 5 Yr. Avg.,12.67,9.58,16.73,GIB,CGI Inc
-Pre-Tax Margin (TTM),13.83,12.20,23.54,GIB,CGI Inc
+Pre-Tax Margin (TTM),13.83,12.2,23.54,GIB,CGI Inc
 Pre-Tax Margin - 5 Yr. Avg.,12.67,12.82,17.92,GIB,CGI Inc
 Net Profit Margin (TTM),10.29,8.39,17.11,GIB,CGI Inc
 Net Profit Margin - 5 Yr. Avg.,9.44,9.34,13.38,GIB,CGI Inc
@@ -278,14 +278,14 @@ Effective Tax Rate (TTM),25.57,28.15,26.97,GIB,CGI Inc
 Effective Tax Rate - 5 Yr. Avg.,25.47,26.71,26.82,GIB,CGI Inc
 Revenue/Employee (TTM),"118,310","5,322,560","2,601,178",GIB,CGI Inc
 Net Income/Employee (TTM),"12,176","401,348","280,290",GIB,CGI Inc
-Receivable Turnover (TTM),8.40,6.03,7.74,GIB,CGI Inc
-Inventory Turnover (TTM),9.54,158.24,17.10,GIB,CGI Inc
+Receivable Turnover (TTM),8.4,6.03,7.74,GIB,CGI Inc
+Inventory Turnover (TTM),9.54,158.24,17.1,GIB,CGI Inc
 Asset Turnover (TTM),0.94,1.04,0.77,GIB,CGI Inc
 Return on Assets (TTM),9.66,9.57,12.92,GIB,CGI Inc
 Return on Assets - 5 Yr. Avg.,8.84,8.36,10.76,GIB,CGI Inc
 Return on Investment (TTM),13.03,13.56,16.88,GIB,CGI Inc
 Return on Investment - 5 Yr. Avg.,11.86,11.96,14.19,GIB,CGI Inc
-Return on Equity (TTM),17.50,15.27,18.42,GIB,CGI Inc
+Return on Equity (TTM),17.5,15.27,18.42,GIB,CGI Inc
 Return on Equity - 5 Yr. Avg.,17.46,14.42,15.44,GIB,CGI Inc
 P/E Ratio (TTM),12.59,21.74,11.13,DXC,DXC Technology Co
 P/E High - Last 5 Yrs.,69.82,39.71,22.82,DXC,DXC Technology Co
@@ -295,30 +295,30 @@ Price to Sales (TTM),0.77,362.34,20.79,DXC,DXC Technology Co
 Price to Book (MRQ),1.53,4.28,1.82,DXC,DXC Technology Co
 Price to Tangible Book (MRQ),--,12.35,2.75,DXC,DXC Technology Co
 Price to Cash Flow (TTM),4.69,25.94,12.86,DXC,DXC Technology Co
-% Owned Institutions,--,0.00,0.00,DXC,DXC Technology Co
+% Owned Institutions,--,0,0,DXC,DXC Technology Co
 Dividend Yield,1.22,1.35,2.57,DXC,DXC Technology Co
 Dividend Yield - 5 Year Avg,1.69,1.33,1.82,DXC,DXC Technology Co
-Dividend 5 Year Growth Rate,-3.20,10.56,29.24,DXC,DXC Technology Co
-Payout Ratio(TTM),15.00,25.86,20.57,DXC,DXC Technology Co
+Dividend 5 Year Growth Rate,-3.2,10.56,29.24,DXC,DXC Technology Co
+Payout Ratio(TTM),15,25.86,20.57,DXC,DXC Technology Co
 Sales (MRQ) vs Qtr. 1 Yr. Ago,-5.16,10.91,-4.08,DXC,DXC Technology Co
 Sales (TTM) vs TTM 1 Yr. Ago,20.67,10.08,6.11,DXC,DXC Technology Co
 Sales - 5 Yr. Growth Rate,20.83,23.98,5.77,DXC,DXC Technology Co
 EPS (MRQ) vs Qtr. 1 Yr. Ago,-47.06,14.48,-11.91,DXC,DXC Technology Co
 EPS (TTM) vs TTM 1 Yr. Ago,90.29,--,--,DXC,DXC Technology Co
 EPS - 5 Yr. Growth Rate,--,16.35,13.09,DXC,DXC Technology Co
-Capital Spending - 5 Yr. Growth Rate,2.57,23.63,9.10,DXC,DXC Technology Co
+Capital Spending - 5 Yr. Growth Rate,2.57,23.63,9.1,DXC,DXC Technology Co
 Quick Ratio (MRQ),--,2.22,1.91,DXC,DXC Technology Co
-Current Ratio (MRQ),1.00,2.44,2.37,DXC,DXC Technology Co
+Current Ratio (MRQ),1,2.44,2.37,DXC,DXC Technology Co
 LT Debt to Equity (MRQ),54.26,40.83,8.67,DXC,DXC Technology Co
 Total Debt to Equity (MRQ),68.59,53.09,15.75,DXC,DXC Technology Co
 Interest Coverage (TTM),8.26,26.43,13.79,DXC,DXC Technology Co
-Gross Margin (TTM),29.10,28.50,43.23,DXC,DXC Technology Co
-Gross Margin - 5 Yr. Avg.,26.93,25.79,40.40,DXC,DXC Technology Co
+Gross Margin (TTM),29.1,28.5,43.23,DXC,DXC Technology Co
+Gross Margin - 5 Yr. Avg.,26.93,25.79,40.4,DXC,DXC Technology Co
 EBITD Margin (TTM),24.07,--,--,DXC,DXC Technology Co
 EBITD - 5 Yr. Avg,16.72,14.12,26.44,DXC,DXC Technology Co
 Operating Margin (TTM),9.39,10.51,22.49,DXC,DXC Technology Co
 Operating Margin - 5 Yr. Avg.,4.48,9.58,16.73,DXC,DXC Technology Co
-Pre-Tax Margin (TTM),8.37,12.20,23.54,DXC,DXC Technology Co
+Pre-Tax Margin (TTM),8.37,12.2,23.54,DXC,DXC Technology Co
 Pre-Tax Margin - 5 Yr. Avg.,3.48,12.82,17.92,DXC,DXC Technology Co
 Net Profit Margin (TTM),6.58,8.39,17.11,DXC,DXC Technology Co
 Net Profit Margin - 5 Yr. Avg.,4.06,9.34,13.38,DXC,DXC Technology Co
@@ -327,13 +327,13 @@ Effective Tax Rate - 5 Yr. Avg.,-16.72,26.71,26.82,DXC,DXC Technology Co
 Revenue/Employee (TTM),"145,113","5,322,560","2,601,178",DXC,DXC Technology Co
 Net Income/Employee (TTM),"9,553","401,348","280,290",DXC,DXC Technology Co
 Receivable Turnover (TTM),4.07,6.03,7.74,DXC,DXC Technology Co
-Inventory Turnover (TTM),--,158.24,17.10,DXC,DXC Technology Co
-Asset Turnover (TTM),0.70,1.04,0.77,DXC,DXC Technology Co
+Inventory Turnover (TTM),--,158.24,17.1,DXC,DXC Technology Co
+Asset Turnover (TTM),0.7,1.04,0.77,DXC,DXC Technology Co
 Return on Assets (TTM),4.59,9.57,12.92,DXC,DXC Technology Co
 Return on Assets - 5 Yr. Avg.,4.04,8.36,10.76,DXC,DXC Technology Co
 Return on Investment (TTM),6.57,13.56,16.88,DXC,DXC Technology Co
 Return on Investment - 5 Yr. Avg.,5.99,11.96,14.19,DXC,DXC Technology Co
-Return on Equity (TTM),11.90,15.27,18.42,DXC,DXC Technology Co
+Return on Equity (TTM),11.9,15.27,18.42,DXC,DXC Technology Co
 Return on Equity - 5 Yr. Avg.,12.31,14.42,15.44,DXC,DXC Technology Co
 P/E Ratio (TTM),12.16,20.65,990.15,IBM,IBM
 P/E High - Last 5 Yrs.,13.39,35.22,22.93,IBM,IBM
@@ -341,26 +341,26 @@ P/E Low - Last 5 Yrs.,10.12,10.11,8.73,IBM,IBM
 Beta,0.92,0.58,1.29,IBM,IBM
 Price to Sales (TTM),1.74,2.58,2.52,IBM,IBM
 Price to Book (MRQ),7.41,2.71,2.26,IBM,IBM
-Price to Tangible Book (MRQ),--,19.48,3.40,IBM,IBM
+Price to Tangible Book (MRQ),--,19.48,3.4,IBM,IBM
 Price to Cash Flow (TTM),8.58,12.01,12.83,IBM,IBM
 % Owned Institutions,60.04,2.04,0.73,IBM,IBM
-Dividend Yield,4.10,1.43,1.48,IBM,IBM
+Dividend Yield,4.1,1.43,1.48,IBM,IBM
 Dividend Yield - 5 Year Avg,2.58,1.23,1.23,IBM,IBM
 Dividend 5 Year Growth Rate,13.66,12.02,30.75,IBM,IBM
 Payout Ratio(TTM),47.09,23.24,25.39,IBM,IBM
 Sales (MRQ) vs Qtr. 1 Yr. Ago,-4.69,9.87,20.62,IBM,IBM
 Sales (TTM) vs TTM 1 Yr. Ago,-2.27,8.51,6.18,IBM,IBM
 Sales - 5 Yr. Growth Rate,-5.65,30.28,5.96,IBM,IBM
-EPS (MRQ) vs Qtr. 1 Yr. Ago,-4.80,24.80,128.57,IBM,IBM
+EPS (MRQ) vs Qtr. 1 Yr. Ago,-4.8,24.8,128.57,IBM,IBM
 EPS (TTM) vs TTM 1 Yr. Ago,-2.18,--,--,IBM,IBM
 EPS - 5 Yr. Growth Rate,-1.05,9.27,10.47,IBM,IBM
-Capital Spending - 5 Yr. Growth Rate,-2.32,28.80,4.08,IBM,IBM
+Capital Spending - 5 Yr. Growth Rate,-2.32,28.8,4.08,IBM,IBM
 Quick Ratio (MRQ),1.21,2.08,1.81,IBM,IBM
 Current Ratio (MRQ),1.25,2.24,2.24,IBM,IBM
-LT Debt to Equity (MRQ),204.20,47.22,9.20,IBM,IBM
+LT Debt to Equity (MRQ),204.2,47.22,9.2,IBM,IBM
 Total Debt to Equity (MRQ),247.97,65.41,17.12,IBM,IBM
 Interest Coverage (TTM),27.73,47.61,15.99,IBM,IBM
-Gross Margin (TTM),46.50,26.68,41.10,IBM,IBM
+Gross Margin (TTM),46.5,26.68,41.1,IBM,IBM
 Gross Margin - 5 Yr. Avg.,49.25,22.91,36.93,IBM,IBM
 EBITD Margin (TTM),20.55,--,--,IBM,IBM
 EBITD - 5 Yr. Avg,25.59,12.79,22.66,IBM,IBM
@@ -368,13 +368,13 @@ Operating Margin (TTM),15.44,13.26,16.39,IBM,IBM
 Operating Margin - 5 Yr. Avg.,19.98,8.75,13.09,IBM,IBM
 Pre-Tax Margin (TTM),15.44,14.82,17.41,IBM,IBM
 Pre-Tax Margin - 5 Yr. Avg.,19.98,10.75,14.16,IBM,IBM
-Net Profit Margin (TTM),14.59,11.30,13.02,IBM,IBM
-Net Profit Margin - 5 Yr. Avg.,16.43,7.80,10.87,IBM,IBM
+Net Profit Margin (TTM),14.59,11.3,13.02,IBM,IBM
+Net Profit Margin - 5 Yr. Avg.,16.43,7.8,10.87,IBM,IBM
 Effective Tax Rate (TTM),5.54,28.57,25.12,IBM,IBM
 Effective Tax Rate - 5 Yr. Avg.,17.76,21.81,24.45,IBM,IBM
 Revenue/Employee (TTM),"206,258","11,553,599","7,150,036",IBM,IBM
 Net Income/Employee (TTM),"30,092","903,400","717,481",IBM,IBM
-Receivable Turnover (TTM),9.13,6.60,7.80,IBM,IBM
+Receivable Turnover (TTM),9.13,6.6,7.8,IBM,IBM
 Inventory Turnover (TTM),25.52,128.76,13.79,IBM,IBM
 Asset Turnover (TTM),0.66,0.99,0.82,IBM,IBM
 Return on Assets (TTM),9.59,7.83,10.89,IBM,IBM
@@ -382,4 +382,4 @@ Return on Assets - 5 Yr. Avg.,12.69,6.77,9.89,IBM,IBM
 Return on Investment (TTM),13.57,11.32,14.19,IBM,IBM
 Return on Investment - 5 Yr. Avg.,19.07,10.05,13.26,IBM,IBM
 Return on Equity (TTM),67.02,12.87,14.57,IBM,IBM
-Return on Equity - 5 Yr. Avg.,86.09,14.34,13.90,IBM,IBM
+Return on Equity - 5 Yr. Avg.,86.09,14.34,13.9,IBM,IBM
